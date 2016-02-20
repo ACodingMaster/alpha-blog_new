@@ -1,1 +1,1 @@
-"# home-test" 
+This is the repostory for the second alpha - blog
